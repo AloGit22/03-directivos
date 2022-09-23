@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h1>Universidad Tecnologica de Tehuacan</h1>
     <h1> Directivas en VUE.js</h1>
     <hr />
     <h2>v-text</h2>
